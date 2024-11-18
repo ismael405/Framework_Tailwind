@@ -552,6 +552,7 @@ video {
 
 [hidden]:where(:not([hidden="until-found"])) {
   display: none;
+<<<<<<< HEAD
 }
 
 .container {
@@ -788,4 +789,6 @@ video {
   .lg\:grid-cols-3 {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
+=======
+>>>>>>> bed4d40fc4ed4b55b60ccbf0acae46a7eaba4beb
 }

@@ -1,15 +1,25 @@
 {
+<<<<<<< HEAD
   "name": "tailwind-setup",
   "version": "1.0.0",
   "main": "index.js",
+=======
+  "name": "tailwind-mamitiana",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+>>>>>>> bed4d40fc4ed4b55b60ccbf0acae46a7eaba4beb
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+<<<<<<< HEAD
   "description": "",
   "devDependencies": {
     "tailwindcss": "^3.4.15"
   }
+=======
+  "description": ""
+>>>>>>> bed4d40fc4ed4b55b60ccbf0acae46a7eaba4beb
 }
